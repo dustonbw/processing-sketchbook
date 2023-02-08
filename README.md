@@ -1,2 +1,2 @@
 # processing-sketchbook
-Small processing sketches
+Small processing sketches - these are from some time ago, but I haven't done too much since...
